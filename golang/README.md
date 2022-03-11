@@ -11,6 +11,7 @@
 * [go语言中文网](https://studygolang.com/)
 * [TalkGo](https://talkgo.org/)
 * [mojotv](https://mojotv.cn/404#Golang)
+* [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 * [Go语言圣经](https://books.studygolang.com/gopl-zh/)
 * [The Way to Go](https://learnku.com/docs/the-way-to-go)
 * [Uber 编程规范]
