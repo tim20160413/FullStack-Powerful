@@ -1,11 +1,5 @@
-# golang
 
-
-## golang简介
-## golang环境
-## golang基本语法
-## golang高级特性
-## golang前端说
+## [go基本编程](golang)
 
 ## 参考
 * [编程时光](https://golang.iswbm.com/index.html)
