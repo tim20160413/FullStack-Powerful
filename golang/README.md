@@ -1,5 +1,5 @@
 
-## [go基本编程](golang)
+## [go基本编程](https://github.com/tim20160413/FullStack-Powerful/blob/main/golang/golang.md)
 
 ## 参考
 * [编程时光](https://golang.iswbm.com/index.html)
