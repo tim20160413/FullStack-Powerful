@@ -6,6 +6,12 @@ Go语言2009对外发布，主要目标是“兼具python等动态语言的速�
 ## golang简介
 
 ## golang基本语法
+Go语言在很多特性上和C语言非常相似。
+
+**变量**
+
+变量遵循驼峰命名规则，第一个首字母小写，之后单词首字母大写，例如firstGolangVariable，
+Go语言中当一个变量声明之后，系统自动赋值该类型的零值：int为0，float为0.0，bool为false，string为空字符串，指针为nil等。
 
 ## golang高级特性
 
