@@ -1,6 +1,7 @@
 # mysq基本知识
 
-** DDL DML DCL **
+**DDL DML DCL**
+
 M:manipulation
 
 DML（data manipulation language）：SELECT、UPDATE、INSERT、DELETE
