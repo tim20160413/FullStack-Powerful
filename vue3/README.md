@@ -51,6 +51,13 @@
 
 * 3、使用vue init命令创建一个项目
   ```
+  如果出现提示:
+    Command vue init requires a global addon to be installed.
+    Please run npm i -g @vue/cli-init and try again.
+    
+  可以使用:npm i -g @vue/cli-init 进行安装
+  ```
+  ```
   $ vue init webpack runoob-vue3-test
   启动:
   $ cd runoob-vue3-test
