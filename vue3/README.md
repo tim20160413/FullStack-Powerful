@@ -9,3 +9,5 @@
   ☕ [volar](https://github.com/johnsoncodehk/volar)
   <br>Vue Language Features, VueLF is a Language Support plugin built specifically for Vue 3. It's based on @vue/reactivity to calculate everything on-demand, to implement native TypeScript language service level performance.
 
+  ☕ [mitt](https://blog.csdn.net/qq_41196217/article/details/120695349)
+  <br>mitt库,事件总线
