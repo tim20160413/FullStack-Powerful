@@ -94,3 +94,15 @@
   $ cnpm run dev
   成功执行以上命令在浏览器访问 http://localhost:3000/
   ```
+
+## 三.安装其他
+ * 1.安装vue-router
+   ```
+   npm install vue-router@4
+   ```
+  * 2.安装typescript
+    ```
+    npm install -g typescript
+    ```
+
+  
