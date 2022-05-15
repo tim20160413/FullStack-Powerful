@@ -7,3 +7,6 @@
   例如:import store from '@/example/store/index'
       import install from './packages/install'
   ```
+
+* import ... from ..
+  <br>https://blog.csdn.net/fyyyr/article/details/83657828
