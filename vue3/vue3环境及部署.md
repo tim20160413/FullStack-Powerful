@@ -98,11 +98,11 @@
 ## 三.安装其他
  * 1.安装vue-router
    ```
-   npm install vue-router@4
+   cnpm install vue-router@4
    ```
   * 2.安装typescript
     ```
-    npm install -g typescript
+    cnpm install -g typescript
     ```
 
   
