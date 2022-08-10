@@ -36,3 +36,5 @@
 * 2、https://wiki.jikexueyuan.com/project/go-command-tutorial/0.0.html
 * [学Go 20个网站](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/105897706)
 * [Go语言充电站](https://lessisbetter.site/subject/)
+* [golang.google.cn](https://golang.google.cn/)
+* [go-zh.org](https://go-zh.org/pkg/)
