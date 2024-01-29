@@ -14,6 +14,7 @@
 * Gin
 * Go Micro
 * Gorm
+* [Golang学习路线](http://www.topgoer.com/%E5%BC%80%E6%BA%90/go%E5%AD%A6%E4%B9%A0%E7%BA%BF%E8%B7%AF%E5%9B%BE.html)
 
 ## React
 
